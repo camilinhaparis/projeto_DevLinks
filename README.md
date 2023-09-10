@@ -4,6 +4,8 @@
 Links para o Instagram.
 </p>
 
+<p align="center">Curso Rocketseat/ Discover
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,10 +26,10 @@ Links para o Instagram.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- Figma
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
@@ -39,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com by Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
